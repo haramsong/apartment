@@ -1,0 +1,88 @@
+
+a {
+    text-decoration: none;
+    color:#333;
+}
+ul li {
+    list-style:none;
+}
+
+/* 공통 */
+.fl {
+    float:left;
+}
+.tc {
+    text-align:center;
+}
+
+.nav-margin {
+    margin-bottom: 30px;
+}
+.carousel-item {
+    height: 400px;
+    background-size: cover;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.carousel-item.carousel1 {
+    background-image: url("https://picsum.photos/id/217/1600/800");
+    background-position: left center;
+}
+.carousel-item.carousel2 {
+    background-image: url("https://picsum.photos/id/210/1600/800");
+    background-position: center top;
+}
+.carousel-item.carousel3 {
+    background-image: url("https://picsum.photos/id/200/1600/800");
+    background-position: center center;
+}
+.center-align {
+    text-align: center;
+}
+.login_box {
+    display: inline-block;
+    position: relative;
+    margin-top: 60px;
+    text-align: center;
+    width: 800px;
+    height: 600px;
+}
+table {
+    margin: auto;
+}
+#table-container {
+    text-align: center;
+    margin-top: 40px;
+}
+#find-id {
+    margin-top: 30px;
+}
+div a {
+    text-decoration: none;
+    color: black;
+}
+h1 {
+    margin-bottom: 30px;
+}
+.margin-control {
+    margin-top: 30px;
+}
+.left-margin {
+    margin-left: 20px;
+}
+.correctpw {
+    display: none;
+}
+.alert-size {
+    line-height: 0%;
+    height: 7px;
+    text-align: center;
+    width: 20px;
+}
+.left-float {
+    display: inline-block;
+    float: left;
+}
+.my-page-icon {
+    display: inline-block;
+}
